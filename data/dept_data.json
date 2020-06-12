@@ -1,0 +1,29 @@
+{
+  "add_dept": {
+    "name": "皮炎杰会飞祥",
+    "cod": "19846890421",
+    "success": true,
+    "code": 10000,
+    "message": "操作成功",
+    "http_code": 200
+  },
+  "query_dept": {
+    "success": true,
+    "code": 10000,
+    "message": "操作成功",
+    "http_code": 200
+  },
+  "modify_dept": {
+    "name": "皮炎杰要拉祥",
+    "success": true,
+    "code": 10000,
+    "message": "操作成功",
+    "http_code": 200
+  },
+  "delete_dept": {
+    "success": true,
+    "code": 10000,
+    "message": "操作成功",
+    "http_code": 200
+  }
+}
